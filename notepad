@@ -1,0 +1,58 @@
+<NotepadPlus>
+    <Project name="elibrary">
+        <Folder name="contents" />
+        <Folder name="php">
+            <File name="php\upload.php" />
+            <File name="php\dbconnect.php" />
+            <File name="php\auth.php" />
+            <File name="php\logout.php" />
+        </Folder>
+        <Folder name="res">
+            <File name="res\apple-touch-icon-152x152-precomposed-fc6f01b41d045c443944cd8223c2f5b1.png" />
+            <File name="res\books.jpg" />
+            <File name="res\drw.png" />
+            <File name="res\drwaud.png" />
+            <File name="res\drwdoc.png" />
+            <File name="res\drwvid.png" />
+            <File name="res\eliblogo1.png" />
+            <File name="res\elibrary-logo-300x131..png" />
+            <File name="res\elibrary-logo-300x131.png" />
+            <File name="res\images.jpg" />
+            <File name="res\lib.PNG" />
+            <File name="res\schoolicon.png" />
+            <File name="res\schoollogo.png" />
+            <Folder name="css">
+                <File name="css\adminstyle.css" />
+                <File name="css\mystyle.css" />
+            </Folder>
+        </Folder>
+        <Folder name="upload">
+            <Folder name="thumb">
+                <File name="upload\thumb\11949-1ew.jpg" />
+                <File name="upload\thumb\14015-ma wify.jpg" />
+                <File name="upload\thumb\556-ma wify.jpg" />
+                <File name="upload\thumb\90139-559max.jpg" />
+                <File name="upload\thumb\96553-OKO APP LOGO2.png" />
+            </Folder>
+            <File name="upload\74293-Microcontroller.pdf" />
+            <File name="upload\90946-Scrolling Text Display on 8x8 LED Matrix using Arduino.html" />
+            <File name="upload\97952-html5_tutorial.pdf" />
+        </Folder>
+        <File name="admin1.php" />
+        <File name="cat.php" />
+        <File name="ebook.php" />
+        <File name="Hack.mp4" />
+        <File name="index.html" />
+        <File name="videos.php" />
+        <File name="login.php" />
+        <File name="signup.php" />
+        <Folder name="css">
+            <File name="css\adminstyle.css" />
+            <File name="css\loginstyle.css" />
+            <File name="css\mystyle.css" />
+            <File name="css\signup.css" />
+        </Folder>
+        <File name="adminadd.php" />
+        <File name="adminvideo.php" />
+    </Project>
+</NotepadPlus>

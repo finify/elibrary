@@ -1,0 +1,123 @@
+body{margin:0px;background:#f5f5f5;}
+	a{color:red;}
+#headline {
+  padding: 0.8em;
+  color: white;
+  font-family: Roboto, sans-serif;
+  background-image: url(../res/books1.jpg);
+  background-size: cover;
+}
+#section2 {
+	background-color:silver;
+	border-style:solid;
+}
+#section2 div img {
+  width: 70%;
+  box-sizing: border-box;
+  borde r-radius: 50% 50%;
+  box-shadow: black 0px 0px 5px;
+}
+#section1 video {
+  width: 100%;
+  height:180px;
+}
+#headline #register {
+  border-radius: 2px 2px 5px 5px;
+  width: 100%;
+  background:rgba(8, 160, 142, 0.48);
+  padding-bottom: 40px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
+  display:block;
+}
+#headline #register input{
+  display: block;
+  padding: 10px 5px ;
+  margin-bottom: 2px;
+  width: 80%;
+  border: 1px solid #ddd;
+  transition: border-width 0.2s ease;
+  border-radius: 2px;
+  color: black;
+}
+footer{
+	width:100%;
+	background:#dc4d38;
+	height:30px;
+	color:white;
+}  
+form #submit{
+background-color:#dc4d38;
+}
+  
+  
+  
+  @media (min-width: 767px)
+  {
+.container {
+  margin: auto;
+  max-width: 800px;
+}
+#headline {
+  padding: 20px 5%;
+}
+#headline #blurb {
+  float: left; 
+  font-weight: 200;
+  width: 50%;
+  font-size: 18px;
+  box-sizing: border-box;
+  padding-right: 10px;
+}
+#headline #register {
+  float:right;
+  padding: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  font-weight: 300;
+  background:rgba(8, 160, 142, 0.48);
+  color:white;
+}
+form #submit{
+background-color:#dc4d38;
+}
+#headline #register input{
+  display: block;
+  padding: 5px 5px ;
+  margin-bottom: 2px;
+  width: 80%;
+  border: 1px solid #ddd;
+  transition: border-width 0.2s ease;
+  border-radius: 2px;
+  font-size:20px;
+}
+#headline br {
+  clear: both;
+}
+#section1 ul {
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+  padding-right: 1em;
+}
+#section1 video {
+  width: 50%;
+  height:180px;
+  float: right;
+}
+#section2 {
+	margin-top:150px;
+	background-color:silver;
+	border:1;
+}
+#section2 div img {
+  width: 30%;
+  margin: 1%;
+  box-sizing: border-box;
+  border-radius: 50% 50%;
+  box-shadow: black 0px 0px 5px;
+}
+table{
+width:100%;
+}
+
+  }

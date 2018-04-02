@@ -1,0 +1,60 @@
+      /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+     
+body {
+  font-family: "Open Sans", sans-serif;
+  height: 100%;
+  background: url("../res/books1.jpg") 50% fixed;
+  background-size: cover;
+  align-items:center;
+}
+ #register {
+  align-items:center;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  font-weight: 300;
+  background:rgba(8, 160, 142, 0.48);
+  color:white;
+}
+#register input{
+  display: block;
+  padding: 5px 5px ;
+  margin-bottom: 2px;
+  width: 100%;
+  border: 1px solid #ddd;
+  transition: border-width 0.2s ease;
+  border-radius: 2px;
+  color:black;
+  font-size:20px;
+}
+form #submit{
+background-color:#dc4d38;
+color:white;
+}
+
+
+	 #register {
+  align-items:center;
+  padding: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  font-weight: 300;
+  background:rgba(8, 160, 142, 0.48);
+  color:white;
+}
+#register input{
+  display: block;
+  padding: 5px 5px ;
+  margin-bottom: 2px;
+  width: 50%;
+  border: 1px solid #ddd;
+  transition: border-width 0.2s ease;
+  border-radius: 2px;
+  color:black;
+  font-size:20px;
+}
+form #submit{
+background-color:#dc4d38;
+color:white;
+}  
+  }
